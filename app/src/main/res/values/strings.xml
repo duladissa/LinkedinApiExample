@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinkedinAPISample</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="string_get_currentuser">Step 01)Get Current User From Linkedin</string>
+    <string name="string_get_user_connections">Step 02)Get User Connections From Linkedin</string>
+
+    <string name="information_message_loading">Loading Please wait...</string>
+</resources>
